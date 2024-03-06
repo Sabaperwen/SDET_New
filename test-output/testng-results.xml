@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test case is passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-05T09:33:59 IST" name="Default suite" finished-at="2024-02-05T09:34:52 IST" duration-ms="53472">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T09:33:59 IST" name="Default test" finished-at="2024-02-05T09:34:52 IST" duration-ms="53472">
+      <class name="testYantra.CreateOrganisationTest">
+        <test-method signature="createOrganisation()[pri:0, instance:testYantra.CreateOrganisationTest@1c93084c]" started-at="2024-02-05T09:33:59 IST" name="createOrganisation" finished-at="2024-02-05T09:34:52 IST" duration-ms="53318" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test case is passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganisation -->
+      </class> <!-- testYantra.CreateOrganisationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
